@@ -44,8 +44,20 @@
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 <hr>
+ <br/><br/><br/>
  
+ <span><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My intresting...</span>
+<p align="left"><br/><br/>
+<code> <img height="30" src="https://www.svgrepo.com/show/12934/laptop.svg"> </code> <span>Coding...</span><br/><br/><br/>
+<code> <img height="30" src="https://www.svgrepo.com/show/304810/movie-cam.svg"> </code> <span>Film...</span><br/><br/><br/>
+<code> <img height="30" src="https://www.svgrepo.com/show/411187/game.svg"> </code> <span>Gaming...</span><br/><br/><br/>
+<code> <img height="30" src="https://www.svgrepo.com/show/214548/football.svg"> </code> <span>Football...</span><br/><br/><br/>
+<code> <img height="30" src="https://www.svgrepo.com/show/297381/swimming-swim.svg"> </code> <span>Swimming...</span><br/><br/><br/>
 
+
+
+<hr>
+<br/><br/><br/>
 <span><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">***My working tools...***</span>
 <p align="left">
   
