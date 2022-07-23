@@ -1,5 +1,8 @@
 <h1 align="center">Hi , I'm Farzin Mohamadi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p id='auto-typing'></p>
+<div class="type-js headline">
+  <h1 class="text-js">I am a Front-End Developer</h1>
+  
+</div>
 
 
 <br>
@@ -164,20 +167,141 @@
 
 ## 📊 Github Stats
 
+<style>
+.text-js{
+  opacity: 0;
+}
+.cursor{
+  display: block;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: -5px;
+  width: 2px;
+  /* Change colour of Cursor Here */
+  background-color: white;
+  z-index: 1;
+  animation: flash 0.5s none infinite alternate;
+}
+@keyframes flash{
+  0%{
+    opacity: 1;
+  }
+  100%{
+    opacity: 0;
+  }
+}
+
+
+
+
+
+// Rest of CSS (Purely for this pen)
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+
+*{
+  margin: 0;
+  padding: 0;
+  boz-sizing: border-box;
+  font-family: "Open Sans", sans-serif
+}
+body{
+  background: linear-gradient(135deg,#00C4FF,#9D1BB2);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+// Text Can be styled just like normal
+.headline{
+  margin: 20px;
+  color: white;
+  font-size: 32px;
+  text-align: center;
+  h1{
+    letter-spacing: 1.6px;
+    font-weight: 300;
+  }
+}
+
+.twitterLink{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 10px 15px;
+  z-index: 3;
+  svg{
+    width: 25px;
+  }
+}
+
+.credit{
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style>
+
 <script>
-const text =
-            "SIMPLE AUTO WRITE TEXT WITH JAVASCRIPT.";
+function autoType(elementClass, typingSpeed){
+  var thhis = $(elementClass);
+  thhis.css({
+    "position": "relative",
+    "display": "inline-block"
+  });
+  thhis.prepend('<div class="cursor" style="right: initial; left:0;"></div>');
+  thhis = thhis.find(".text-js");
+  var text = thhis.text().trim().split('');
+  var amntOfChars = text.length;
+  var newString = "";
+  thhis.text("|");
+  setTimeout(function(){
+    thhis.css("opacity",1);
+    thhis.prev().removeAttr("style");
+    thhis.text("");
+    for(var i = 0; i < amntOfChars; i++){
+      (function(i,char){
+        setTimeout(function() {        
+          newString += char;
+          thhis.text(newString);
+        },i*typingSpeed);
+      })(i+1,text[i]);
+    }
+  },1500);
+}
 
-        let index = 0;
-
-        function writeText() {
-            document.getElementById('auto-typing').innerText = text.slice(0, index);
-            index++;
-            if (index > text.lenght) {
-                index = 0;
-            }
-        }
-        setInterval(writeText, 100);
+$(document).ready(function(){
+  // Now to start autoTyping just call the autoType function with the 
+  // class of outer div
+  // The second paramter is the speed between each letter is typed.   
+  autoType(".type-js",200);
+});
 
 </script>
 
