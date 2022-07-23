@@ -59,8 +59,9 @@
   <code> <img height="50" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"> </code>
  
   <hr>
-
-
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My experiences...***
+<p align="left">
+  <code> <img height="50" src="https://svgsilh.com/svg/146021-e91e63.svg"> </code> <span>sdadasdasdas</span>
 
 
 
