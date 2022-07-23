@@ -59,7 +59,8 @@
   <code> <img height="50" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"> </code>
  
   <hr>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<span><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">***My ecperiences...***</span>
+<p align="left"><br/><br/><br/>
   <code> <img height="50" src="https://svgsilh.com/svg/2052171-e91e63.svg"> </code> <span>     ACADEMIC COUNSELLORS  2009–2020 – Tehran,Iran</span><br/><br/><br/>
   <code> <img height="50" src="https://svgsilh.com/svg/2052150-9c27b0.svg"> </code> <span>     PHYSICS TEACHER IN HIGH SCHOOL   2010–2020 – Tehran,Iran</span><br/><br/><br/>
   <code> <img height="50" src="https://svgsilh.com/svg/2052130-673ab7.svg"> </code> <span>     FRON-END DEVELOPER  2017–CURRENT  – Tehran,Iran</span><br/><br/><br/>
