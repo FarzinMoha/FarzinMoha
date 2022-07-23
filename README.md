@@ -8,7 +8,7 @@
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-33-blue" />
-  <img src="https://img.shields.io/badge/Focus-FrontEnd" />
+  <img src="https://img.shields.io/badge/Focus-Front-End" />
   <img src="https://img.shields.io/badge/Lives-Turkey-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Italian-brightgreen" />
 </p>
