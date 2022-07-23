@@ -43,6 +43,7 @@
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+<hr>
  
 
 <span><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">***My working tools...***</span>
@@ -60,7 +61,7 @@
  
   <hr>
   <br/><br/><br/>
-<span><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">***My ecperiences...***</span>
+<span><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My ecperiences...</span>
 <p align="left"><br/><br/>
   <code> <img height="50" src="https://svgsilh.com/svg/2052171-e91e63.svg"> </code> <span>     ACADEMIC COUNSELLORS  2009–2020 – Tehran,Iran</span><br/><br/><br/>
   <code> <img height="50" src="https://svgsilh.com/svg/2052150-9c27b0.svg"> </code> <span>     PHYSICS TEACHER IN HIGH SCHOOL   2010–2020 – Tehran,Iran</span><br/><br/><br/>
